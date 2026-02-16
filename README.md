@@ -1,1 +1,1 @@
-# lorebitweb.github.io
+# lorebot
